@@ -33,13 +33,6 @@ Blog API endpoints (`blogapi`):
 - `/api/v1/rest-auth/` login/logout, `/api/v1/rest-auth/registration/` sign up
 - `/swagger/` and `/redoc/` interactive docs
 
-## Screenshots
-
-Add screenshots of `/swagger/` and `/redoc/` under `docs/` and link them here:
-
-```md
-![Swagger UI](docs/swagger.png)
-```
 
 ## Status
 
